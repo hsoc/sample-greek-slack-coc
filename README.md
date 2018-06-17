@@ -32,10 +32,10 @@
 Κατά τη διακριτική μας ευχέρεια, μπορούμε να αναφέρουμε δημοσίως ένα πρόσωπο για το οποίο έχουμε λάβει παράπονα περί παρενόχλησης ή να προειδοποιήσουμε άλλα άτομα για αυτό. Δεν θα αναφέρουμε ονόματα από τα άτομα που έχουν υποστεί παρενόχληση χωρίς τη δική τους συγκατάθεση.
 ### Συνέπειες
 ------
-Σε όποιον ζητηθεί να σταματήσει κάθε παρενόχληση αναμένεται να συμμορφωθεί αμέσως. 
+Σε όποιον ζητηθεί να σταματήσει κάθε παρενόχληση αναμένεται να συμμορφωθεί αμέσως.  
 Αν κάποιο μέλος της ομάδας συνεχίζει να ασκεί παρενόχληση, οι διαχειριστές θα κάνουν τις απαραίτητες ενέργειες που περιλαμβάνουν μέχρι και την απομάκρυνση του μέλους από την ομάδα καθώς και την δημοσιοποίηση αυτής της ανεπιθύμητης συμπεριφοράς.
 ### Credits and License
 [This work is available to you to use, publish, and modify under the terms of the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). Please keep the paragraph below attached to your final version.]
 
-Μεταφρασμένο και προσαρμοσμένο στα ελληνικά από τον [@hsoc](https://github.com/hsoc). 
+Μεταφρασμένο και προσαρμοσμένο στα ελληνικά από τον [@hsoc](https://github.com/hsoc).  
 This code of conduct is based on Annalee Flower Horne's [Sample Slack Code of Conduct](https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17), which is in turn based on Geek Feminism's [Community Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy). We have adapted the Sample Slack Code of Conduct for our own use under the terms of the Creative Commons Attribution License.
